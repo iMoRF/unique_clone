@@ -1,5 +1,5 @@
 # Game project: Unique Clone
-
+123
 ### Директории собранных проектов:
 > exe  
 `C:\Projects\unique_clone\build\jsb-default\frameworks\runtime-src\proj.win32\Release.win32`
